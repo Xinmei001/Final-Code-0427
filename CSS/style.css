@@ -413,13 +413,13 @@ input:checked+label {
 
 /* Here begins the css code for method page */
 
-/*.libcontainer {
+.libcontainer {
   margin-top: 8em;
   padding-top: 3em;
   padding: 3em 8em 0;
   min-height: calc(100%);
   background: linear-gradient(120deg, steelblue, lemonchiffon);
-}*/
+}
 
 .banner-text {
   text-align: center;
