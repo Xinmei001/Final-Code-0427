@@ -98,7 +98,7 @@ header:hover {
   justify-content: space-around;
   background-color: white;
   bottom: 0;
-  box-shadow: 0 -2px -5px 0 rgba(3, 6, 26, 0.35);
+  box-shadow: 0 -2px -5px 0 steelblue;
 }
 
 #footer-nav>a {
