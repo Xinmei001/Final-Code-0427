@@ -425,6 +425,11 @@ input:checked+label {
   text-align: center;
   width: 60%;
   margin: auto;
+  margin-top: 8em;
+  padding-top: 3em;
+  padding: 3em 8em 0;
+  min-height: calc(100%);
+  background: linear-gradient(120deg, steelblue, lemonchiffon);
 }
 
 .banner-text h1 {
