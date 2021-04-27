@@ -429,7 +429,7 @@ input:checked+label {
   padding-top: 3em;
   padding: 3em 8em 0;
   min-height: calc(100%);
-  background: linear-gradient(120deg, steelblue, lemonchiffon);
+  /*background: linear-gradient(120deg, steelblue, lemonchiffon);*/
 }
 
 .banner-text h1 {
