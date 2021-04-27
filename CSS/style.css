@@ -16,10 +16,7 @@ html, body {
   width: 100%;
 }
 
-.text-description {
-  padding: 200px 20px 20px 20px;
-  content-align: center;
-}
+
 body {
   position: relative;
 }
@@ -738,6 +735,12 @@ input:checked+label {
     margin-bottom: 1em;
     max-width: none;
   }
+  .text-description {
+  margin-top: 8em;
+  padding-top: 3em;
+  padding: 3em 8em 0;
+  min-height: calc(100%);
+}
   .part-4 .info .title-2 {
     display: inline-block;
     padding: 0.2em 1em;
