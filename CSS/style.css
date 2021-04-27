@@ -736,10 +736,8 @@ input:checked+label {
     max-width: none;
   }
   .text-description {
-  margin-top: 8em;
-  padding-top: 3em;
-  padding: 3em 8em 0;
-  min-height: calc(100%);
+  padding: 200px 20px 20px 200px;
+  content-align: center;
 }
   .part-4 .info .title-2 {
     display: inline-block;
