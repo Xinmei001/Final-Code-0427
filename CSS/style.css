@@ -144,7 +144,7 @@ header:hover {
 }
 
 .page-text {
-  background-image: url(../images/main.jpg);
+  /*background-image: url(../images/main.jpg);*/
   padding-top: 3em;
   padding-bottom: 40em;
   padding-left: 3em;
